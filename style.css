@@ -95,6 +95,11 @@ body {
   margin: auto;
 }
 
+.text-centered {
+  margin-left: 30%;
+}
+
+
 /*Pseudo-classes for hyperlink styles*/
 a:link    { color: blue;  }
 a:visited { color: red;   }
